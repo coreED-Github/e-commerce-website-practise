@@ -25,7 +25,7 @@ const LogIn= () => {
       
         <div className="w-1/2 p-3 flex justify-center items-center">
           <img
-            src="/SignUp.jpg"
+            src="/signUp.jpg"
             alt="Shopping Cart"
             className="w-full h-auto"
           />

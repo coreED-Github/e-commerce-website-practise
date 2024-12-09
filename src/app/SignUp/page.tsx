@@ -23,7 +23,7 @@ export default function SignUp() {
     <div className="min-h-screen flex flex-col md:flex-row items-center justify-center bg-gray-50">
       <div className="w-full md:w-1/2 p-5">
         <img
-          src="/SignUp.jpg"
+          src="/signUp.jpg"
           alt="Shopping Cart"
           className="w-full max-w-md mx-auto"
         />

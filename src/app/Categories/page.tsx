@@ -12,7 +12,7 @@ export default function Categories() {
   return (
     <div className="p-10 bg-white flex flex-col">
      <h2 className="text-red-600 mb-4 text-lg font-bold">Categories</h2>
-      <h3 className="text-2xl bg-black font-bold mb-6">Browse By Category</h3>
+   
  <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
        
         <div className="flex flex-col items-center justify-center text-black border p-4 rounded-lg shadow hover:shadow-lg transition-shadow">
